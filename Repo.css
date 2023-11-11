@@ -3,5 +3,15 @@
     border: 10px solid yellowgreen;
     border-radius: 10px;
     box-shadow: 10px 10px 15px green;
+    margin: 30px;
 
+}
+#lo{
+    border: 10px solid hotpink;
+    border-radius: 10px;
+    box-shadow: 10px 15px 15px darkgoldenrod;
+}
+h1{
+    text-align: center;
+    color: blue;
 }
